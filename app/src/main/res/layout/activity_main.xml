@@ -24,4 +24,4 @@
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:text="@string/send" />
-</LinearLayout>1
+</LinearLayout>
