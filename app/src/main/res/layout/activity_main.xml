@@ -8,19 +8,23 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="To" />
+        android:hint="@string/to" />
+
     <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="377dp"
+        android:layout_height="69dp"
         android:hint="@string/subject" />
+
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="48dp"
         android:layout_weight="1"
         android:gravity="top"
         android:hint="@string/message" />
+
     <Button
-        android:layout_width="100dp"
+        android:id="@+id/button"
+        android:layout_width="106dp"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:text="@string/send" />
