@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>C#</item>
+        <item>Javascript</item>
+        <item>Python</item>
+    </string-array>
+</resources>
