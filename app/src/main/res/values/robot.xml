@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="robots">
+        <item>Select a robot..</item>
+        <item>CP3O</item>
+        <item>Vision</item>
+        <item>Iron Man</item>
+        <item>Ultron</item>
+        <item>Optimus Prime</item>
+        <item>Megatron</item>
+    </string-array>
+</resources>
