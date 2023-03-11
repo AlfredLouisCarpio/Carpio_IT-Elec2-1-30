@@ -4,4 +4,11 @@
     <string name="subject">Subject</string>
     <string name="message">Message</string>
     <string name="send">Send</string>
+    <string name="ninjas">Ninjas</string>
+    <string name="pirates">Pirates</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="toggles">Toggles</string>
+    <string name="cats">Cats</string>
+    <string name="dogs">Dogs</string>
+    <string name="search">SEARCH</string>
 </resources>
